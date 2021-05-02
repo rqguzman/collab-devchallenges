@@ -11,6 +11,25 @@
     <title>Collab.</title>
   </head>
   <body>
+    <!-- mobile layout - Navigation -->        
+    <div id="mobile-navigation" class="mobile-navigation">          
+      <div class="mobile-navigation--header">
+        <img src="./img/Collab..png" alt="Collab. logo" class="logo">
+        
+        <div class="close-button" onclick="toggleMobilenavigation()">
+          <button>
+            <i class="fas fa-times"></i>
+          </button> 
+        </div> 
+      </div>
+        
+      <a href="#" class="mobile-navigation--item mobile-navigation--item__active">Home</a>
+      <a href="#" class="mobile-navigation--item">About</a>
+      <a href="#" class="mobile-navigation--item">Services</a>
+      <a href="#" class="mobile-navigation--item">Contact</a>
+    </div>
+    <!-- end mobile layout -->
+    
     <div id="container">
       <header>
         <img src="./img/Collab..png" alt="Collab. logo" class="logo">
@@ -21,10 +40,18 @@
           <a href="#" class="navigation--item">Services</a>
           <a href="#" class="navigation--item">Contact</a>
         </nav>
+        
+        <!-- mobile layout - Menu -->
+        <div class="menu-button" onclick="toggleMobilenavigation()">
+          <button>
+            <i class="fas fa-bars"></i>
+          </button>
+        </div>
+        <!-- end mobile layout -->
 
         <button class="navigation--button">
           Get Started
-        </button>
+        </button>        
       </header>
       
       <main>
@@ -55,8 +82,10 @@
           <a href="#" class="socials--item"><i class="fab fa-youtube"></i></a>
         </div>
 
-        <span>Rafael Guzmán - Original designer:  Thu Nghiem</span>
+        <span> Rafael Guzmán - Original designer: Thu Nghiem</span>
       </footer>
     </div>
+
+    <script src="./js/script.js"></script>
   </body>
 </html>
