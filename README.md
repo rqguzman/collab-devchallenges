@@ -15,7 +15,7 @@
 
 ## LICENCE
 
-   :cosntruction: Soon
+   [![License: GPL-2.0](https://img.shields.io/github/license/rqguzman/collab-devchallenges?color=0F80c0)](https://github.com/rqguzman/collab-devchallenges/blob/main/LICENSE)
 
 ## TECHNOLOGIES
 <p>
