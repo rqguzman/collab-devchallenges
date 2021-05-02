@@ -17,3 +17,45 @@ body {
 p {
     max-width: 600;
 }
+
+#container {
+    max-width: 1200px;
+    padding: 24px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+.navigation {
+   flex-grow: 1;
+   margin-left: 40px; 
+}
+
+.navigation--item{
+    margin-left: 24px;
+    text-decoration: none;
+    color: #bdbdbd;
+}
+
+.navigation--item:first-child {
+    margin-left: 0;
+}
+
+.navigation--item__active {
+    color: #333;
+}
+
+.navigation--button {
+    border: none;
+    border-radius: 50px;
+    background: linear-gradient(270deg, #FAA245 0%, #D8328A 37.25%, #753872 100%);
+    padding: 10px 36px;
+    color: white;
+    cursor: pointer;
+}
+
+.navigation--button:active {
+    transform: scale(0.98);
+}
