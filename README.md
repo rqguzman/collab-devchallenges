@@ -1,5 +1,5 @@
 # COLAB
-
+</br>![web](https://github.com/rqguzman/assets/blob/main/snapshots/collab/web.png)
 <p>
     This is an educational project provided by Thu Nghiem, from </br>
     devChallenges(https://devchallenges.io/) </br>
@@ -9,9 +9,14 @@
     I've followed this tutorial in order to improve my CSS and HTML skills.
 </p>
 <p>
-    Status: :construction: ongoing </br>
-    
+    Status: :rocket: deployed! </br>
+    rqguzman-collab-devchallenges.surge.sh
 </p>
+
+### MOBILE SNAPSHOTS
+![mobile_lg](https://github.com/rqguzman/assets/blob/main/snapshots/collab/mobile_lg.png)
+![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/collab/mobile_sm.png)
+![mobile_menu](https://github.com/rqguzman/assets/blob/main/snapshots/collab/mobile_menu.png)
 
 ## LICENCE
 
@@ -21,6 +26,7 @@
 <p>
     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">    
+    <img src="https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/dev/languages/js.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
 </p>
 
 ### BUILT WITH  
